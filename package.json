@@ -1,7 +1,7 @@
 {
   "name": "music-bot",
   "version": "1.0.0",
-  "repository": "https://github.com/TannerGabriel/discord-music-bot.git",
+  "repository": "https://github.com/tersobehrem/redzone-music",
   "description": "A simple discord music bot",
   "main": "index.js",
   "scripts": {
